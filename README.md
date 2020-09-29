@@ -7,4 +7,4 @@
     1. `pip install venvdotapp`
     2. `venvdotapp`
     3. `pip install -U pygame==2.0.0.dev6`
-* pygame should now be installed in the pygame project. Use pygame as your IDE
+* pygame should now be installed in the pygame project. Use pycharm as your IDE
